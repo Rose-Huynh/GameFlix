@@ -55,7 +55,7 @@ and verifies that each endpoint returns the expected response.
 Register and log in with JSON:
 
 ```json
-{"email":"gameuser@example.com","password":"ThrowawayProof123!"}
+{"email":"assignment1@example.com","password":"password123!"}
 ```
 
 | Endpoint | Responses |
