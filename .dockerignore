@@ -1,0 +1,11 @@
+.git
+.idea
+.vscode
+target
+.env
+.env.*
+application-local.properties
+**/application-local.properties
+*.iml
+README.md
+HELP.md

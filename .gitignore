@@ -32,6 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 
+# Local environment secrets
+.env
+.env.*
+
 # Local H2 database and submission archive
 data/
 submission/
